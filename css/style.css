@@ -134,7 +134,7 @@ p{
   padding-left:40px;
   direction:rtl;
   color:black;
-  font-size:30px;
+  font-size:20px;
   font-family:'Jameel Noori Nastaleeq','Nastaleeq';
   font-weight:400;
 }
@@ -142,7 +142,7 @@ h2{
   padding-right:50px;
   direction:rtl;
   color:black;
-  font-size:40px;
+  font-size:30px;
   font-family:'Jameel Noori Nastaleeq','Nastaleeq';
   font-weight:400;
 }
@@ -159,12 +159,8 @@ i{
 }
 #box{
   background-color:white;
-  margin-top:10%;
-  margin-left:22%;
-  margin-right:22%;
-  border-radius:100px 20px;
-  border-top: solid 10px #a94442;
-  border-bottom: solid 10px #ba8557;
+  margin-left:10%;
+  margin-right:10%;
 
 }
 .my-btn{
@@ -183,8 +179,7 @@ button:hover {
   background: #3071A9
 }
 #author-box{
-  text-align:left;
-  padding-left:20px;
+  text-align:center;
   margin-top:20px;
   font-size:18px;
   font-style:normal;
